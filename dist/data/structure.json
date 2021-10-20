@@ -1,0 +1,54 @@
+{
+    "automatons": {
+        "id": {
+            "order": 1,
+            "type": "int(11)"
+        },
+        "1": "id",
+        "created": {
+            "order": 2,
+            "type": "datetime"
+        },
+        "2": "created",
+        "modified": {
+            "order": 3,
+            "type": "datetime"
+        },
+        "3": "modified",
+        "owner": {
+            "order": 4,
+            "type": "varchar(255)"
+        },
+        "4": "owner",
+        "updated_by": {
+            "order": 5,
+            "type": "varchar(255)"
+        },
+        "5": "updated_by",
+        "name": {
+            "order": 6,
+            "type": "varchar(255)"
+        },
+        "6": "name",
+        "type": {
+            "order": 7,
+            "type": "varchar(255)"
+        },
+        "7": "type",
+        "json": {
+            "order": 8,
+            "type": "longtext"
+        },
+        "8": "json",
+        "relationship": {
+            "order": 9,
+            "type": "varchar(255)"
+        },
+        "9": "relationship",
+        "link_to": {
+            "order": 10,
+            "type": "varchar(255)"
+        },
+        "10": "link_to"
+    }
+}
