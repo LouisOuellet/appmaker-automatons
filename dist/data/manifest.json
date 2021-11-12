@@ -1,7 +1,7 @@
 {
     "repository": {
         "name": "appmaker-automatons",
-        "branch": "dev",
+        "branch": "stable",
         "manifest": "\/dist\/data\/manifest.json",
         "host": {
             "git": "https:\/\/github.com\/LouisOuellet\/",
@@ -12,6 +12,6 @@
         "automatons"
     ],
     "name": "automatons",
-    "build": 40,
-    "version": "21.11-dev"
+    "build": 41,
+    "version": "21.11-stable"
 }
