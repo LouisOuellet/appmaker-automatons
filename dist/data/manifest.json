@@ -1,7 +1,7 @@
 {
     "repository": {
         "name": "appmaker-automatons",
-        "branch": "dev",
+        "branch": "pre-release",
         "manifest": "\/dist\/data\/manifest.json",
         "host": {
             "git": "https:\/\/github.com\/LouisOuellet\/",
@@ -12,6 +12,6 @@
         "automatons"
     ],
     "name": "automatons",
-    "build": 64,
-    "version": "22.05-dev"
+    "build": 65,
+    "version": "22.05-pre-release"
 }
